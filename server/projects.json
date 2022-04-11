@@ -1,0 +1,17 @@
+{
+    "projects" :
+    [
+        {
+            "title" : "Something with Cells",
+            "name" : "Dr. Jonathan Huskey",
+            "subject" : "BIO",
+            "description" : "There are cells. Something will happen."
+        },
+        {
+            "title" : "Geometry of a Square",
+            "name" : "Mr. Kay Elemeno",
+            "subject" : "MA",
+            "description" : "Four corners to this world of wonder."
+        }
+    ]   
+}

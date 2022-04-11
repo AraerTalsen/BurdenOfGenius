@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <link rel="stylesheet" type="text/css" media="screen" href="createProject.css" />
+
+            <h1>Create New Project</h1>
+        </head>
+        <body>
+
+                <fieldset>
+                    <legend>Project:</legend>
+                        <label for="title">Title: </label><br>
+                        <input type ="text" id="title"><br>
+
+                        <label for="name">Name: </label><br>
+                        <input type ="text" id="name"><br>
+                        
+                        <label for="subject">Subject: </label><br>
+                        <input type ="text" id="subject"><br>
+
+                        <label for="credits">Credits: </label><br>
+                        <input type ="text" id="credits"><br>
+
+                        <label for="prerequisites">Prerequisites: </label><br>
+                        <input type ="text" id="prerequisites"><br>
+
+                        <label for="adReq">Additional Requirements: </label><br>
+                        <textarea id="adReq" rows="3" cols="30"></textarea><br>
+
+                        <label for="description">Description: </label><br>
+                        <textarea id="description" rows="5" cols="100"></textarea><br>
+
+                        <!-- <label for="supDoc">Supplementary Document Submission: </label><br>
+                        <input type ="file" id="supDoc"><br><br> -->
+
+                        <input type="submit" value="Submit" onclick="createProject()">
+                </fieldset>
+
+
+              <script src="createProject.js"></script>  
+        </body>
+    </html>

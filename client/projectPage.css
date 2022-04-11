@@ -1,0 +1,9 @@
+html
+{
+    background-color: darkcyan;
+}
+
+.child 
+{
+    display: inline-block;
+}

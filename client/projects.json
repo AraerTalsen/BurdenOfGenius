@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "title": "Something with Cells",
+      "name": "Dr. Jonathan Huskey",
+      "subject": "BIO",
+      "credits": "3",
+      "prerequisites": "NA",
+      "additionalReqirements": "NA",
+      "description": "There are cells. Something will happen."
+    },
+    {
+      "title": "Geometry of a Square",
+      "name": "Mr. Kay Elemeno",
+      "subject": "MA",
+      "credits": "3",
+      "prerequisites": "NA",
+      "additionalReqirements": "NA",
+      "description": "It has four corners."
+    },
+    {
+      "title": "Programming",
+      "name": "Dr. Mark Hoffman",
+      "subject": "CS",
+      "credits": "3",
+      "prerequisites": "NA",
+      "additionalReqirements": "NA",
+      "description": "A programming class for you and me."
+    },
+    {
+      "title": "Computer Science",
+      "name": "Dr Duncan",
+      "subject": "CS",
+      "credits": "3",
+      "prerequisites": "NA",
+      "additionalReqirements": "NA",
+      "description": "This is a computer science project."
+    }
+  ]
+}
