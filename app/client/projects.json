@@ -1,40 +1,31 @@
 {
   "projects": [
     {
-      "title": "Something with Cells",
+      "title": "Calcium Supplements in Canine Growth",
       "name": "Dr. Jonathan Huskey",
-      "subject": "BIO",
-      "credits": "3",
+      "subject": "ANSC",
+      "credits": "2",
       "prerequisites": "NA",
       "additionalReqirements": "NA",
-      "description": "There are cells. Something will happen."
+      "description": "NA"
     },
     {
-      "title": "Geometry of a Square",
-      "name": "Mr. Kay Elemeno",
-      "subject": "MA",
-      "credits": "3",
+      "title": "Siberian Husky Temperament Based on U.S. Geography",
+      "name": "Dr. Jonathan Huskey",
+      "subject": "ANSC",
+      "credits": "2",
       "prerequisites": "NA",
       "additionalReqirements": "NA",
-      "description": "It has four corners."
+      "description": "NA"
     },
     {
-      "title": "Programming",
-      "name": "Dr. Mark Hoffman",
-      "subject": "CS",
-      "credits": "3",
-      "prerequisites": "NA",
-      "additionalReqirements": "NA",
-      "description": "A programming class for you and me."
-    },
-    {
-      "title": "Computer Science",
-      "name": "Dr Duncan",
-      "subject": "CS",
-      "credits": "3",
-      "prerequisites": "NA",
-      "additionalReqirements": "NA",
-      "description": "This is a computer science project."
+      "title": "Treatment of Canine Asthma",
+      "name": "Dr. Jonathan Huskey",
+      "subject": "ANSC",
+      "credits": "2",
+      "prerequisites": "BIOL1107",
+      "additionalReqirements": "Submit a short paper telling me about yourself and why you're interested in this project. ~500 words.",
+      "description": "This study will go into different methods and effectiveness of treating asthma in dogs."
     }
   ]
 }

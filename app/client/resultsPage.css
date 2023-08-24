@@ -2,3 +2,10 @@ html
 {
     background-color: darkcyan;
 }
+
+#logo
+{
+    position: absolute;
+    width: 7%;
+    right: 5%;
+}
